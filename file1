@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 DEVOPS IS GOOD TO LEARN
+welcome back
+=======
+#!bin/bash
+LIST =ls
+DATE =date
+echo"today date is" $DATE
+echo"the list of the files are $LIST
+>>>>>>> fb706e9c3949a927a86084829a4fe9b8b36b0680
